@@ -76,11 +76,11 @@ class _CartScreenState extends State<CartScreen> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: const [
-                        Text("Fresh Meat",
+                        Text("MIlk",
                             style: TextStyle(
                                 fontSize: 19, fontWeight: FontWeight.bold)),
                         SizedBox(height: 4),
-                        Text("400 tk / kg",
+                        Text("100 tk / L",
                             style: TextStyle(
                                 color: Colors.green,
                                 fontSize: 17,
